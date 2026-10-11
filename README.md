@@ -1,46 +1,68 @@
 
-# Paint My Home VR
+# 🏠 Paint My Home VR
 
-An immersive virtual reality interior design experience developed using Unity and C#. Explore a virtual living room and customize interior colors through an interactive VR color selection panel.
+An immersive Virtual Reality (VR) interior customization experience developed using Unity and C#. Explore a virtual home environment and customize interior colors through an interactive VR interface.
 
-## Project Preview
+## 🎮 Project Preview
 
 ![Paint My Home VR](paint-my-home-vr.png)
 
-## Overview
+**Gameplay Demo:** [Watch Paint My Home VR](YOUR_VIDEO_LINK)
 
-- Developed an interactive VR home customization experience using Unity and C#.
-- Created an immersive virtual environment for interior color customization.
-- Designed intuitive VR interactions for selecting colors and visualizing interior designs.
+---
 
-## Features
+## 📌 Overview
 
-- Interactive VR color selection panel.
-- Multiple color options for customization.
-- Immersive 3D living room environment.
-- VR controller-based interaction.
-- User-friendly interface for color selection.
-- Real-time visual feedback during customization.
+Paint My Home VR is an interactive VR experience designed to let users explore a virtual living space and visualize different interior color options. The project combines an immersive 3D environment with intuitive VR interactions to create an engaging home customization experience.
 
-## My Contribution
+## ✨ Key Features
+
+- **VR Color Selection:** Interactive color selection interface for interior customization.
+- **Immersive Environment:** Explore a detailed 3D virtual home interior.
+- **Interactive UI:** User-friendly interface for selecting available colors.
+- **VR Interaction:** Controller-based interactions for an intuitive user experience.
+- **Visual Feedback:** Immediate visual feedback during color customization.
+- **Meta Quest Support:** Designed and tested for a VR experience on Meta Quest devices.
+
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|---|---|
+| Unity | 3D environment and application development |
+| C# | Interaction and gameplay logic |
+| Virtual Reality | Immersive interior customization |
+| Meta Quest | Target VR platform |
+
+## 👨‍💻 My Contribution
 
 - Developed VR interaction systems using Unity and C#.
 - Implemented interactive color selection mechanics.
 - Integrated UI elements and interactive objects.
 - Designed and configured the virtual home environment.
-- Tested VR interactions for an intuitive user experience.
+- Developed gameplay logic for user interactions and customization.
+- Tested VR interactions to improve usability and responsiveness.
 
-## Technologies Used
+## 🎯 Project Objective
 
-- Unity
-- C#
-- Virtual Reality (VR)
-- Meta Quest
+To provide an immersive and intuitive way to explore interior color options in a virtual home environment, helping users visualize customization choices through interactive VR technology.
 
-## Gameplay Demo
+## 📺 Gameplay Demonstration
 
-[Watch the Paint My Home VR Demo](YOUR_VIDEO_LINK)
+Watch the project in action:
 
-## Source Code
+[▶ Watch the Full Gameplay Video](YOUR_VIDEO_LINK)
 
-The source code is not included in this repository. This repository showcases the project through gameplay footage and screenshots.
+## 📂 Repository Contents
+
+- Project documentation
+- Gameplay screenshots
+- Video demonstration link
+
+> Note: The Unity source project is not included in this repository. This repository is intended to showcase the project through screenshots, documentation, and gameplay footage.
+
+---
+
+**Project:** Paint My Home VR  
+**Development Engine:** Unity  
+**Programming Language:** C#  
+**Category:** Virtual Reality / Interior Design
