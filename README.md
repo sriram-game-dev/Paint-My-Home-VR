@@ -3,12 +3,17 @@
 
 An immersive Virtual Reality (VR) interior customization experience developed using Unity and C#. Explore a virtual home environment and customize interior colors through an interactive VR interface.
 
+
 ## 🎮 Project Preview
 
-![Paint My Home VR](<p align="center">
-  <img src="ScreenShot/Main%20Menu.png" width="600">
+<p align="center">
+  <img
+    src="Project%20Documentions/vr-paint.jpg"
+    alt="Paint My Home VR - Interior Color Customization"
+    width="800"
+  />
 </p>
-)
+
 
 **Gameplay Demo:** [Watch Paint My Home VR](https://drive.google.com/drive/folders/1xMxvMJYm01h8M0UnbuhbtIFWv9mfdaXQ?usp=drive_link)
 
