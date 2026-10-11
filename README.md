@@ -58,7 +58,7 @@ To provide an immersive and intuitive way to explore interior color options in a
 
 - Project documentation
 - Gameplay screenshots
-- Video demonstration link
+- Environment screenshots
 
 > Note: The Unity source project is not included in this repository. This repository is intended to showcase the project through screenshots, documentation, and gameplay footage.
 
