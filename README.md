@@ -5,9 +5,10 @@ An immersive Virtual Reality (VR) interior customization experience developed us
 
 ## 🎮 Project Preview
 
-![Paint My Home VR](paint-my-home-vr.png)
+![Paint My Home VR](<img width="1672" height="941" alt="vr-paint" src="https://github.com/user-attachments/assets/1c47f4a4-c571-487c-94ef-d91424426933" />
+)
 
-**Gameplay Demo:** [Watch Paint My Home VR](YOUR_VIDEO_LINK)
+**Gameplay Demo:** [Watch Paint My Home VR](https://drive.google.com/drive/folders/1xMxvMJYm01h8M0UnbuhbtIFWv9mfdaXQ?usp=drive_link)
 
 ---
 
@@ -45,12 +46,6 @@ Paint My Home VR is an interactive VR experience designed to let users explore a
 ## 🎯 Project Objective
 
 To provide an immersive and intuitive way to explore interior color options in a virtual home environment, helping users visualize customization choices through interactive VR technology.
-
-## 📺 Gameplay Demonstration
-
-Watch the project in action:
-
-[▶ Watch the Full Gameplay Video](YOUR_VIDEO_LINK)
 
 ## 📂 Repository Contents
 
