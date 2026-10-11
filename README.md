@@ -5,7 +5,9 @@ An immersive Virtual Reality (VR) interior customization experience developed us
 
 ## 🎮 Project Preview
 
-![Paint My Home VR](<img width="1672" height="941" alt="vr-paint" src="https://github.com/user-attachments/assets/1c47f4a4-c571-487c-94ef-d91424426933" />
+![Paint My Home VR](<p align="center">
+  <img src="ScreenShot/Main%20Menu.png" width="600">
+</p>
 )
 
 **Gameplay Demo:** [Watch Paint My Home VR](https://drive.google.com/drive/folders/1xMxvMJYm01h8M0UnbuhbtIFWv9mfdaXQ?usp=drive_link)
